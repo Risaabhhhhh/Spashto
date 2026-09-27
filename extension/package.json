@@ -1,0 +1,19 @@
+{
+  "name": "spashto-extension",
+  "version": "1.0.0",
+  "description": "Spashto Chrome Extension",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/chrome": "^0.0.246",
+    "esbuild": "^0.19.2",
+    "typescript": "^5.2.2"
+  }
+}
