@@ -7,3 +7,11 @@ protobuf
 tiktoken
 bert-score
 tqdm
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+pytest
+httpx
+pydantic
+pydantic-settings
