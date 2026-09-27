@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+transformers
+torch
+sentencepiece
+protobuf
+tiktoken
+bert-score
+tqdm
